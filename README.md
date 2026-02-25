@@ -206,12 +206,6 @@ GET /api/recommend/The Dark Knight
 
 ---
 
-## 📝 Resume Description
-
-> Designed and built a **Content-Based Movie Recommendation System** using Python and NLP techniques. Implemented a full preprocessing pipeline to parse and merge TMDB movie metadata, engineered text features from genres, keywords, cast, and crew, and applied TF-IDF vectorization with cosine similarity to deliver accurate movie recommendations. Built a Netflix-style web interface using Flask and vanilla JavaScript. The project follows clean, modular software engineering practices.
-
----
-
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/Ayushi-DevSphere/movie-recommendation-system/issues).
@@ -228,3 +222,4 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 ## 📜 License
 
 This project is open-source and available under the [MIT License](LICENSE).
+
